@@ -6,6 +6,9 @@ import Details from "./Details";
 import { Provider } from "react-redux";
 import store from "./store";
 
+// Just like context makes your store available 
+// anywhere in your app, so does Provider.
+
 const App = () => {
   return (
     <StrictMode>

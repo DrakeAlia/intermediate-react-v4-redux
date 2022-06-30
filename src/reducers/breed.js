@@ -8,3 +8,7 @@ export default function breed(state = "", action) {
             return state;
     }
 }
+
+// For this one, any time we issue a change animal action, 
+// we want to reset the breed to be nothing selected so 
+// we don't allow users to select tabby dogs or poodle cats

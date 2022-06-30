@@ -74,3 +74,10 @@ const WrappedDetails = () => {
 };
 
 export default WrappedDetails;
+
+
+// Now it should work! Redux is a great piece of technology that 
+// adds a lot of complexity to your app.Don't add it lightly. 
+// I'd say you'd rarely want to start a new project using 
+// Redux: hit the problems first and then refactor it in. 
+// You just saw how.
